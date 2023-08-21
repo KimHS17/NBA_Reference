@@ -1,0 +1,14 @@
+certifi
+chardet
+idna
+joblib
+nba-api
+numpy
+pandas
+python-dateutil
+pytz
+requests
+scikit-learn
+scipy
+six
+urllib3
